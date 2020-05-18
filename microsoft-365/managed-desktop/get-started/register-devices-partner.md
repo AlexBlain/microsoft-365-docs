@@ -17,7 +17,9 @@ This topic describes the steps for Partners to follow to register devices. The p
 
 
 ## Prepare for registration 
-Before completing registration for a customer, you must first establish a relationship with them at the [Partner Center](https://partner.microsoft.com/dashboard). Be sure to select **Include delegated administration privileges for Azure Active Directory and Office 365**. Learn more at [Partner Center help](https://docs.microsoft.com/partner-center/request-a-relationship-with-a-customer).
+Before completing registration for a customer, you must first establish a relationship with them at the [Partner Center](https://partner.microsoft.com/dashboard). From Partner Center, CSP partners can manage Autopilot devices for their customers without delegated admin privileges.
+
+Learn more about partner relationship and permissions for Autopilot at [Partner Center help](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges#windows-autopilot).
 
 To complete registration for your customer, first create a CSV file.
 
