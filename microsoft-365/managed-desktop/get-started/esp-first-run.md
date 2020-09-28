@@ -84,15 +84,15 @@ The experience proceeds as follows:
 
 Microsoft Managed Desktop doesn't currently support the "white glove" feature of Windows Autopilot.
 
-## Exceptions
+## Change to Autopilot and Enrollment settings
 
-If the setup used by Microsoft Managed Desktop doesn't exactly match your needs, you can file a request for an exception. To do this, see details in [Request an exception](../service-description/customizing.md#request-an-exception). Here are some examples of the types of exceptions you might need:
+If the setup used by Microsoft Managed Desktop doesn't exactly match your needs, you can file a support ticket through the [Admin Portal](https://portal.azure.com/).
 
-### Autopilot exception
+### Autopilot settings change
 
 You might want to request a different device name template. You cannot, however, change Deployment Mode, Join to Azure As, Privacy Settings, or User Account Type.
 
-### Enrollment Status Page exception
+### Enrollment Status Page settings change
 
 - A longer number of minutes for the "Show an error when installation takes longer than specified number of minutes" setting.
 - The error message displayed
